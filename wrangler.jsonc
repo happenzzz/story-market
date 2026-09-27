@@ -1,0 +1,9 @@
+{
+  // Cloudflare Workers(정적 자산)로 배포할 때 쓰는 설정입니다.
+  // Cloudflare Pages로 배포할 때는 이 파일이 없어도 됩니다.
+  "name": "story-market",
+  "compatibility_date": "2025-09-01",
+  "assets": {
+    "directory": "./public"
+  }
+}
